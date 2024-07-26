@@ -8,7 +8,7 @@ get service-account.json from google cloud console
 and
 get Google API key from this https://aistudio.google.com/
 
-then run this main.py on ngrok it or host whatever
+then run this main.py on ngrok or host whatever
 
 give {url}/slack/events in event subscribe in setting of Slack API 
 
