@@ -12,4 +12,6 @@ then run this main.py on ngrok or host whatever
 
 give {url}/slack/events in event subscribe in setting of Slack API 
 
+Workflow:
+
 Slack --> Service --> LLM --> Service --> GoogleSheet --> Reply to Slack
