@@ -1,2 +1,2 @@
 # slack_bot_leave_LLM
-this use for participating in myorder hackerthon competition
+this used for participating in myorder hackerthon competition
