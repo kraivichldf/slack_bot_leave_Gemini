@@ -1,8 +1,6 @@
 import datetime
-import re
 from flask import Flask, request, jsonify
 import json
-import os
 import requests
 from oauth2client.service_account import ServiceAccountCredentials
 from googleapiclient.discovery import build
