@@ -4,9 +4,9 @@ this used for participating in myorder hackerthon competition by rubjope team
 
 you should learn how to add bot and key in Slack API
 and
-get service-account.json from google cloud console
+get service-account.json from Google Cloud Console
 and
-get Google API key from this https://aistudio.google.com/
+get Google AI API key from this https://aistudio.google.com/
 
 then run this main.py on ngrok or host whatever
 
