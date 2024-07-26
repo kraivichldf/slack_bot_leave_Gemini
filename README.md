@@ -14,4 +14,4 @@ give {url}/slack/events in event subscribe in setting of Slack API
 
 Workflow:
 
-Slack --> Service --> LLM --> Service --> GoogleSheet --> Reply to Slack
+Slack --> Service --> LLM(Gemini) --> Service --> GoogleSheet --> Reply to Slack
