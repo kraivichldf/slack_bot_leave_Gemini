@@ -1,6 +1,6 @@
 # slack_bot_leave_LLM
 
-this used for participating in myorder hackerthon competition by rubjope team
+this used for participating in myorder hackerthon competition
 
 you should learn how to add bot and key in Slack API
 and
